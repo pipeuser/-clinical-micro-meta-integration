@@ -1,0 +1,926 @@
+	species	species_pct	genus	genus_pct	family	family_pct	order	order_pct	phylum	phylum_pct
+T2DCAG00001	NA	NA	Clostridium	84	Clostridiaceae	84	Clostridiales	87	Firmicutes	88
+T2DCAG00002	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00003	Clostridium clostridioforme	76	Clostridium	88	Clostridiaceae	88	Clostridiales	93	Firmicutes	94
+T2DCAG00004	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	75
+T2DCAG00005	Escherichia coli	86	Escherichia	88	Enterobacteriaceae	100	Enterobacteriales	100	Proteobacteria	100
+T2DCAG00006	Lachnospiraceae bacterium	96	Lachnospiraceae	96	NA	NA	NA	NA	NA	NA
+T2DCAG00007	Clostridium hathewayi	78	Clostridium	86	Clostridiaceae	86	Clostridiales	89	Firmicutes	90
+T2DCAG00008	Klebsiella oxytoca	81	Klebsiella	83	Enterobacteriaceae	84	Enterobacteriales	84	Proteobacteria	84
+T2DCAG00009	Clostridium hathewayi	96	Clostridium	98	Clostridiaceae	98	Clostridiales	98	Firmicutes	98
+T2DCAG00010	Clostridium symbiosum	99	Clostridium	100	Clostridiaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00011	Klebsiella pneumoniae	99	Klebsiella	100	Enterobacteriaceae	100	Enterobacteriales	100	Proteobacteria	100
+T2DCAG00012	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00013	NA	NA	NA	NA	NA	NA	Clostridiales	74	Firmicutes	77
+T2DCAG00014	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00015	NA	NA	NA	NA	NA	NA	Clostridiales	82	Firmicutes	86
+T2DCAG00016	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00017	Haemophilus parainfluenzae	99	Haemophilus	100	Pasteurellaceae	100	Pasteurellales	100	Proteobacteria	100
+T2DCAG00018	Clostridium bolteae	83	Clostridium	90	Clostridiaceae	90	Clostridiales	91	Firmicutes	91
+T2DCAG00019	Bacteroides thetaiotaomicron	98	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00020	Bacteroides fragilis	89	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00021	NA	NA	Bacteroides	90	Bacteroidaceae	90	Bacteroidales	90	Bacteroidetes	90
+T2DCAG00022	Lactobacillus ruminis	72	Lactobacillus	73	Lactobacillaceae	73	Lactobacillales	74	Firmicutes	83
+T2DCAG00023	NA	NA	NA	NA	NA	NA	Bacteroidales	88	Bacteroidetes	88
+T2DCAG00024	Bacteroides salyersiae	99	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00025	Lachnospiraceae bacterium	83	Lachnospiraceae	83	NA	NA	Clostridiales	72	Firmicutes	78
+T2DCAG00026	Citrobacter freundii	95	Citrobacter	95	Enterobacteriaceae	95	Enterobacteriales	95	Proteobacteria	95
+T2DCAG00027	Bacteroides caccae	100	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00028	NA	NA	Clostridium	70	Clostridiaceae	70	Clostridiales	82	Firmicutes	83
+T2DCAG00029	NA	NA	NA	NA	Ruminococcaceae	73	Clostridiales	79	Firmicutes	80
+T2DCAG00030	Bacteroides cellulosilyticus	82	Bacteroides	95	Bacteroidaceae	95	Bacteroidales	95	Bacteroidetes	95
+T2DCAG00031	Streptococcus parasanguinis	97	Streptococcus	100	Streptococcaceae	100	Lactobacillales	100	Firmicutes	100
+T2DCAG00032	Erysipelotrichaceae bacterium	100	Erysipelotrichaceae	100	Clostridiaceae	86	Clostridiales	86	Firmicutes	86
+T2DCAG00033	Ruminococcus sp._5_1_39BFAA	99	Ruminococcus	100	Ruminococcaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00034	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00035	NA	NA	NA	NA	NA	NA	Clostridiales	77	Firmicutes	78
+T2DCAG00036	Enterobacter cloacae	99	Enterobacter	100	Enterobacteriaceae	100	Enterobacteriales	100	Proteobacteria	100
+T2DCAG00037	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00038	Enterococcus faecalis	84	Enterococcus	85	Enterococcaceae	85	Lactobacillales	86	Firmicutes	93
+T2DCAG00039	NA	NA	NA	NA	Ruminococcaceae	75	Clostridiales	79	Firmicutes	79
+T2DCAG00040	Coprobacillus sp._D6	99	Coprobacillus	99	Erysipelotrichaceae	99	Erysipelotrichales	99	Firmicutes	99
+T2DCAG00041	NA	NA	Bacteroides	71	Bacteroidaceae	71	Bacteroidales	82	Bacteroidetes	82
+T2DCAG00042	Bacteroides fluxus	97	Bacteroides	99	Bacteroidaceae	99	Bacteroidales	99	Bacteroidetes	99
+T2DCAG00043	Coprobacillus sp._8_2_54BFAA	82	Coprobacillus	100	Erysipelotrichaceae	100	Erysipelotrichales	100	Firmicutes	100
+T2DCAG00044	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00045	Parabacteroides merdae	100	Parabacteroides	100	Porphyromonadaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00046	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00047	Bacteroides cellulosilyticus	100	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00048	Bacteroides faecis	100	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00049	Odoribacter laneus	95	Odoribacter	95	Porphyromonadaceae	95	Bacteroidales	96	Bacteroidetes	96
+T2DCAG00050	Bacteroides vulgatus	97	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00051	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00052	Bacteroides fragilis	100	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00053	NA	NA	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00054	NA	NA	NA	NA	NA	NA	Bacteroidales	73	Bacteroidetes	73
+T2DCAG00055	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00056	NA	NA	Bacteroides	87	Bacteroidaceae	87	Bacteroidales	88	Bacteroidetes	88
+T2DCAG00057	NA	NA	NA	NA	NA	NA	Bacteroidales	73	Bacteroidetes	73
+T2DCAG00058	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00059	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00060	Bacteroides uniformis	100	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00061	NA	NA	NA	NA	NA	NA	Bacteroidales	74	Bacteroidetes	76
+T2DCAG00062	NA	NA	Weissella	70	Leuconostocaceae	70	Lactobacillales	73	Firmicutes	77
+T2DCAG00063	Subdoligranulum sp._4_3_54A2FAA	96	Subdoligranulum	96	Ruminococcaceae	96	Clostridiales	97	Firmicutes	97
+T2DCAG00064	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00065	NA	NA	Bacteroides	82	Bacteroidaceae	82	Bacteroidales	83	Bacteroidetes	84
+T2DCAG00066	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00067	Lachnospiraceae bacterium	70	Lachnospiraceae	70	NA	NA	Clostridiales	85	Firmicutes	86
+T2DCAG00068	Bacteroides coprophilus	100	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00069	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00070	NA	NA	Clostridium	73	Clostridiaceae	73	Clostridiales	85	Firmicutes	85
+T2DCAG00071	NA	NA	NA	NA	NA	NA	Clostridiales	74	Firmicutes	75
+T2DCAG00072	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00073	NA	NA	NA	NA	NA	NA	Clostridiales	78	Firmicutes	80
+T2DCAG00074	Fusobacterium sp._12_1B	91	Fusobacterium	93	Fusobacteriaceae	93	Fusobacteriales	93	Fusobacteria	93
+T2DCAG00075	NA	NA	Prevotella	72	Prevotellaceae	72	Bacteroidales	75	Bacteroidetes	75
+T2DCAG00076	Lactococcus lactis	93	Lactococcus	94	Streptococcaceae	95	Lactobacillales	96	Firmicutes	96
+T2DCAG00077	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00078	NA	NA	NA	NA	NA	NA	Clostridiales	71	Firmicutes	73
+T2DCAG00079	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00080	Brachyspira aalborgii	84	Brachyspira	90	Brachyspiraceae	90	Spirochaetales	90	Spirochaetes	90
+T2DCAG00081	NA	NA	Ruminococcus	75	Ruminococcaceae	76	Clostridiales	86	Firmicutes	87
+T2DCAG00082	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00083	Alistipes indistinctus	100	Alistipes	100	Rikenellaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00084	NA	NA	Parabacteroides	74	Porphyromonadaceae	77	Bacteroidales	91	Bacteroidetes	91
+T2DCAG00085	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00086	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00087	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00088	NA	NA	NA	NA	Desulfovibrionaceae	71	Desulfovibrionales	71	Proteobacteria	80
+T2DCAG00089	Bacteroides eggerthii	100	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00090	Akkermansia muciniphila	78	Akkermansia	78	Verrucomicrobiaceae	78	Verrucomicrobiales	78	Verrucomicrobia	78
+T2DCAG00091	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00092	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	70
+T2DCAG00093	Ruminococcus sp._SR1/5	78	Ruminococcus	86	Ruminococcaceae	86	Clostridiales	91	Firmicutes	91
+T2DCAG00094	Veillonella parvula	97	Veillonella	99	Veillonellaceae	99	Selenomonadales	99	Firmicutes	100
+T2DCAG00095	Bacteroides coprocola	100	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00096	Marvinbryantia formatexigens	74	Marvinbryantia	74	Lachnospiraceae	78	Clostridiales	85	Firmicutes	86
+T2DCAG00097	Lachnospiraceae bacterium	100	Lachnospiraceae	100	Clostridiaceae	99	Clostridiales	100	Firmicutes	100
+T2DCAG00098	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00099	Tannerella sp._6_1_58FAA_CT1	99	Tannerella	99	Porphyromonadaceae	99	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00100	NA	NA	NA	NA	NA	NA	Clostridiales	75	Firmicutes	77
+T2DCAG00101	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00102	Alistipes sp._HGB5	76	Alistipes	87	Rikenellaceae	87	Bacteroidales	90	Bacteroidetes	90
+T2DCAG00103	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00104	Streptococcus salivarius	98	Streptococcus	100	Streptococcaceae	100	Lactobacillales	100	Firmicutes	100
+T2DCAG00105	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00106	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00107	NA	NA	Clostridium	76	Clostridiaceae	77	Clostridiales	79	Firmicutes	81
+T2DCAG00108	NA	NA	NA	NA	NA	NA	Bacteroidales	76	Bacteroidetes	77
+T2DCAG00109	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00110	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00111	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00112	NA	NA	Clostridium	78	Clostridiaceae	78	Clostridiales	79	Firmicutes	82
+T2DCAG00113	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00114	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00115	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00116	Eubacterium eligens	93	Eubacterium	94	Eubacteriaceae	94	Clostridiales	96	Firmicutes	96
+T2DCAG00117	NA	NA	Bacteroides	96	Bacteroidaceae	96	Bacteroidales	97	Bacteroidetes	97
+T2DCAG00118	NA	NA	NA	NA	NA	NA	Clostridiales	71	Firmicutes	72
+T2DCAG00119	Lachnospiraceae bacterium	99	Lachnospiraceae	99	Ruminococcaceae	85	Clostridiales	85	Firmicutes	85
+T2DCAG00120	Bacteroides nordii	99	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00121	NA	NA	Clostridium	80	Clostridiaceae	80	Clostridiales	89	Firmicutes	90
+T2DCAG00122	NA	NA	NA	NA	NA	NA	Bacteroidales	75	Bacteroidetes	75
+T2DCAG00123	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00124	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00125	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00126	Anaerostipes sp._3_2_56FAA	100	Anaerostipes	100	Lachnospiraceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00127	Lachnospiraceae bacterium	71	Lachnospiraceae	71	NA	NA	Clostridiales	89	Firmicutes	91
+T2DCAG00128	Bacteroides salanitronis	81	Bacteroides	92	Bacteroidaceae	92	Bacteroidales	94	Bacteroidetes	94
+T2DCAG00129	NA	NA	Prevotella	75	Prevotellaceae	75	Bacteroidales	79	Bacteroidetes	79
+T2DCAG00130	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00131	NA	NA	Ruminococcus	75	Ruminococcaceae	76	Clostridiales	91	Firmicutes	92
+T2DCAG00132	NA	NA	Bacteroides	73	Bacteroidaceae	73	Bacteroidales	77	Bacteroidetes	77
+T2DCAG00133	Bilophila wadsworthia	100	Bilophila	100	Desulfovibrionaceae	100	Desulfovibrionales	100	Proteobacteria	100
+T2DCAG00134	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00135	NA	NA	Roseburia	76	Lachnospiraceae	80	Clostridiales	86	Firmicutes	86
+T2DCAG00136	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00137	Ruminococcus obeum	82	Ruminococcus	89	Ruminococcaceae	89	Clostridiales	93	Firmicutes	93
+T2DCAG00138	Eubacterium hallii	100	Eubacterium	100	Eubacteriaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00139	NA	NA	NA	NA	NA	NA	Clostridiales	79	Firmicutes	80
+T2DCAG00140	Lachnospiraceae bacterium	100	Lachnospiraceae	100	NA	NA	Clostridiales	99	Firmicutes	99
+T2DCAG00141	NA	NA	NA	NA	NA	NA	Clostridiales	71	Firmicutes	72
+T2DCAG00142	Ruminococcus obeum	80	Ruminococcus	87	Ruminococcaceae	88	Clostridiales	92	Firmicutes	92
+T2DCAG00143	NA	NA	NA	NA	NA	NA	Bacteroidales	71	Bacteroidetes	71
+T2DCAG00144	Bacteroides stercoris	99	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00145	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00146	NA	NA	NA	NA	NA	NA	Bacteroidales	81	Bacteroidetes	82
+T2DCAG00147	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00148	NA	NA	Bacteroides	85	Bacteroidaceae	85	Bacteroidales	87	Bacteroidetes	87
+T2DCAG00149	Clostridium leptum	100	Clostridium	100	Clostridiaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00150	NA	NA	NA	NA	NA	NA	Clostridiales	70	Firmicutes	74
+T2DCAG00151	NA	NA	Bacteroides	79	Bacteroidaceae	79	Bacteroidales	85	Bacteroidetes	85
+T2DCAG00152	Bacteroides coprocola	84	Bacteroides	91	Bacteroidaceae	91	Bacteroidales	91	Bacteroidetes	91
+T2DCAG00153	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00154	Parabacteroides merdae	80	Parabacteroides	87	Porphyromonadaceae	88	Bacteroidales	97	Bacteroidetes	97
+T2DCAG00155	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00156	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00157	Bacteroides clarus	99	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00158	NA	NA	NA	NA	NA	NA	Clostridiales	76	Firmicutes	78
+T2DCAG00159	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00160	NA	NA	NA	NA	NA	NA	Clostridiales	77	Firmicutes	78
+T2DCAG00161	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00162	NA	NA	Bacteroides	78	Bacteroidaceae	78	Bacteroidales	87	Bacteroidetes	87
+T2DCAG00163	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00164	NA	NA	NA	NA	NA	NA	Clostridiales	76	Firmicutes	77
+T2DCAG00165	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00166	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00167	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00168	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00169	NA	NA	Prevotella	72	Prevotellaceae	72	Bacteroidales	83	Bacteroidetes	83
+T2DCAG00170	Ruminococcus torques	93	Ruminococcus	95	Ruminococcaceae	95	Clostridiales	98	Firmicutes	99
+T2DCAG00171	NA	NA	NA	NA	Veillonellaceae	72	Selenomonadales	72	Firmicutes	79
+T2DCAG00172	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00173	Faecalibacterium prausnitzii	93	Faecalibacterium	93	Ruminococcaceae	94	Clostridiales	95	Firmicutes	95
+T2DCAG00174	NA	NA	Bacteroides	92	Bacteroidaceae	92	Bacteroidales	93	Bacteroidetes	93
+T2DCAG00175	NA	NA	NA	NA	NA	NA	Clostridiales	86	Firmicutes	87
+T2DCAG00176	NA	NA	Prevotella	78	Prevotellaceae	79	Bacteroidales	82	Bacteroidetes	83
+T2DCAG00177	NA	NA	NA	NA	NA	NA	Clostridiales	76	Firmicutes	77
+T2DCAG00178	NA	NA	Prevotella	70	Prevotellaceae	71	Bacteroidales	74	Bacteroidetes	74
+T2DCAG00179	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00180	NA	NA	NA	NA	NA	NA	Bacteroidales	70	Bacteroidetes	70
+T2DCAG00181	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00182	NA	NA	Bacteroides	87	Bacteroidaceae	87	Bacteroidales	89	Bacteroidetes	90
+T2DCAG00183	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00184	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00185	Roseburia intestinalis	100	Roseburia	100	Lachnospiraceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00186	NA	NA	NA	NA	NA	NA	Clostridiales	77	Firmicutes	78
+T2DCAG00187	Ruminococcus flavefaciens	74	Ruminococcus	80	Ruminococcaceae	80	Clostridiales	85	Firmicutes	86
+T2DCAG00188	Roseburia hominis	99	Roseburia	100	Lachnospiraceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00189	Alistipes finegoldii	99	Alistipes	100	Rikenellaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00190	Faecalibacterium prausnitzii	100	Faecalibacterium	100	Ruminococcaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00191	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00192	Synergistes sp._3_1_syn1	79	Synergistes	79	Synergistaceae	80	Synergistales	80	Synergistetes	80
+T2DCAG00193	NA	NA	NA	NA	NA	NA	Clostridiales	82	Firmicutes	84
+T2DCAG00194	Faecalibacterium prausnitzii	89	Faecalibacterium	89	Ruminococcaceae	90	Clostridiales	92	Firmicutes	93
+T2DCAG00195	NA	NA	NA	NA	NA	NA	Bacteroidales	78	Bacteroidetes	79
+T2DCAG00196	NA	NA	NA	NA	NA	NA	Bacteroidales	71	Bacteroidetes	71
+T2DCAG00197	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00198	Faecalibacterium prausnitzii	100	Faecalibacterium	100	Ruminococcaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00199	NA	NA	NA	NA	NA	NA	Bacteroidales	72	Bacteroidetes	73
+T2DCAG00200	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00201	NA	NA	Clostridium	79	Clostridiaceae	79	Clostridiales	80	Firmicutes	83
+T2DCAG00202	Odoribacter splanchnicus	99	Odoribacter	99	Porphyromonadaceae	99	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00203	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00204	NA	NA	Bacteroides	85	Bacteroidaceae	85	Bacteroidales	88	Bacteroidetes	88
+T2DCAG00205	NA	NA	NA	NA	NA	NA	Clostridiales	80	Firmicutes	81
+T2DCAG00206	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00207	[Bacteroides] pectinophilus	98	[Bacteroides]	98	NA	NA	Clostridiales	77	Firmicutes	79
+T2DCAG00208	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00209	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00210	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	72
+T2DCAG00211	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00212	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00213	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00214	Lachnospiraceae bacterium	99	Ruminococcus	99	Ruminococcaceae	99	Clostridiales	100	Firmicutes	100
+T2DCAG00215	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00216	Dialister succinatiphilus	99	Dialister	99	Veillonellaceae	100	Selenomonadales	100	Firmicutes	100
+T2DCAG00217	NA	NA	NA	NA	NA	NA	Bacteroidales	79	Bacteroidetes	80
+T2DCAG00218	Clostridium sp._M62/1	100	Clostridium	100	Clostridiaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00219	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00220	Bifidobacterium pseudocatenulatum	96	Bifidobacterium	99	Bifidobacteriaceae	99	Bifidobacteriales	99	Actinobacteria	99
+T2DCAG00221	Bacteroides dorei	99	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00222	Lactobacillus reuteri	85	Lactobacillus	86	Lactobacillaceae	86	Lactobacillales	86	Firmicutes	88
+T2DCAG00223	Bacteroides plebeius	89	Bacteroides	96	Bacteroidaceae	96	Bacteroidales	96	Bacteroidetes	96
+T2DCAG00224	Clostridium bartlettii	100	Clostridium	100	Clostridiaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00225	Prevotella copri	73	Prevotella	85	Prevotellaceae	85	Bacteroidales	87	Bacteroidetes	87
+T2DCAG00226	NA	NA	NA	NA	Lachnospiraceae	73	Clostridiales	81	Firmicutes	82
+T2DCAG00227	Megasphaera elsdenii	95	Megasphaera	95	Veillonellaceae	97	Selenomonadales	98	Firmicutes	98
+T2DCAG00228	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00229	NA	NA	NA	NA	NA	NA	Clostridiales	82	Firmicutes	83
+T2DCAG00230	NA	NA	NA	NA	NA	NA	Clostridiales	78	Firmicutes	79
+T2DCAG00231	NA	NA	Alistipes	80	Rikenellaceae	80	Bacteroidales	87	Bacteroidetes	87
+T2DCAG00232	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00233	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00234	Parabacteroides johnsonii	100	Parabacteroides	100	Porphyromonadaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00235	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00236	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00237	Ruminococcus obeum	100	Ruminococcus	100	Ruminococcaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00238	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00239	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00240	Acidaminococcus sp._D21	100	Acidaminococcus	100	Acidaminococcaceae	100	Selenomonadales	100	Firmicutes	100
+T2DCAG00241	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00242	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00243	Eubacterium rectale	100	Eubacterium	100	Eubacteriaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00244	NA	NA	Alistipes	75	Rikenellaceae	75	Bacteroidales	80	Bacteroidetes	80
+T2DCAG00245	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00246	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00247	Sutterella wadsworthensis	99	Sutterella	100	Sutterellaceae	100	Burkholderiales	100	Proteobacteria	100
+T2DCAG00248	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00249	NA	NA	NA	NA	NA	NA	Clostridiales	80	Firmicutes	81
+T2DCAG00250	Ruminococcus sp._5_1_39BFAA	82	Ruminococcus	90	Ruminococcaceae	90	Clostridiales	95	Firmicutes	96
+T2DCAG00251	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	73
+T2DCAG00252	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00253	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00254	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00255	NA	NA	NA	NA	NA	NA	Clostridiales	74	Firmicutes	76
+T2DCAG00256	NA	NA	NA	NA	NA	NA	Clostridiales	90	Firmicutes	91
+T2DCAG00257	Coprococcus sp._ART55/1	97	Coprococcus	99	Lachnospiraceae	99	Clostridiales	100	Firmicutes	100
+T2DCAG00258	Lachnospiraceae bacterium	100	Lachnospiraceae	100	NA	NA	NA	NA	NA	NA
+T2DCAG00259	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00260	Subdoligranulum variabile	74	Subdoligranulum	75	Ruminococcaceae	87	Clostridiales	91	Firmicutes	91
+T2DCAG00261	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00262	NA	NA	Clostridium	76	Clostridiaceae	76	Clostridiales	90	Firmicutes	91
+T2DCAG00263	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00264	Megamonas funiformis	99	Megamonas	100	Veillonellaceae	100	Selenomonadales	100	Firmicutes	100
+T2DCAG00265	NA	NA	NA	NA	NA	NA	Clostridiales	78	Firmicutes	79
+T2DCAG00266	Clostridium nexile	100	Clostridium	100	Clostridiaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00267	NA	NA	NA	NA	NA	NA	Clostridiales	76	Firmicutes	76
+T2DCAG00268	Fusobacterium mortiferum	99	Fusobacterium	100	Fusobacteriaceae	100	Fusobacteriales	100	Fusobacteria	100
+T2DCAG00269	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00270	NA	NA	Bacteroides	94	Bacteroidaceae	94	Bacteroidales	96	Bacteroidetes	96
+T2DCAG00271	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00272	NA	NA	NA	NA	NA	NA	Clostridiales	77	Firmicutes	78
+T2DCAG00273	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00274	Ruminococcus sp._SR1/5	100	Ruminococcus	100	Ruminococcaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00275	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00276	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00277	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00278	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	70
+T2DCAG00279	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00280	NA	NA	Clostridium	76	Clostridiaceae	76	Clostridiales	88	Firmicutes	89
+T2DCAG00281	NA	NA	NA	NA	NA	NA	Clostridiales	87	Firmicutes	88
+T2DCAG00282	Roseburia inulinivorans	99	Roseburia	100	Lachnospiraceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00283	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00284	NA	NA	NA	NA	Prevotellaceae	72	Bacteroidales	83	Bacteroidetes	84
+T2DCAG00285	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00286	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00287	NA	NA	NA	NA	NA	NA	Bacteroidales	79	Bacteroidetes	80
+T2DCAG00288	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00289	Bifidobacterium longum	100	Bifidobacterium	100	Bifidobacteriaceae	100	Bifidobacteriales	100	Actinobacteria	100
+T2DCAG00290	NA	NA	Prevotella	72	Prevotellaceae	73	Bacteroidales	81	Bacteroidetes	81
+T2DCAG00291	NA	NA	Bacteroides	92	Bacteroidaceae	92	Bacteroidales	93	Bacteroidetes	93
+T2DCAG00292	NA	NA	Eubacterium	71	Eubacteriaceae	71	Clostridiales	86	Firmicutes	86
+T2DCAG00293	NA	NA	NA	NA	Ruminococcaceae	79	Clostridiales	82	Firmicutes	82
+T2DCAG00294	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00295	Eubacterium hallii	92	Eubacterium	93	Eubacteriaceae	93	Clostridiales	97	Firmicutes	97
+T2DCAG00296	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00297	Faecalibacterium prausnitzii	97	Faecalibacterium	97	Ruminococcaceae	97	Clostridiales	97	Firmicutes	97
+T2DCAG00298	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	70
+T2DCAG00299	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00300	NA	NA	NA	NA	NA	NA	Clostridiales	85	Firmicutes	85
+T2DCAG00301	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00302	Fusobacterium ulcerans	78	Fusobacterium	92	Fusobacteriaceae	92	Fusobacteriales	93	Fusobacteria	93
+T2DCAG00303	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00304	NA	NA	Alistipes	81	Rikenellaceae	81	Bacteroidales	85	Bacteroidetes	86
+T2DCAG00305	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00306	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00307	Akkermansia muciniphila	100	Akkermansia	100	Verrucomicrobiaceae	100	Verrucomicrobiales	100	Verrucomicrobia	100
+T2DCAG00308	Klebsiella pneumoniae	100	Klebsiella	100	Enterobacteriaceae	100	Enterobacteriales	100	Proteobacteria	100
+T2DCAG00309	NA	NA	NA	NA	NA	NA	Bacteroidales	76	Bacteroidetes	77
+T2DCAG00310	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00311	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00312	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00313	NA	NA	NA	NA	NA	NA	NA	NA	Bacteroidetes	70
+T2DCAG00314	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00315	NA	NA	NA	NA	NA	NA	Burkholderiales	75	Proteobacteria	80
+T2DCAG00316	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00317	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00318	Prevotella stercorea	72	Prevotella	84	Prevotellaceae	85	Bacteroidales	87	Bacteroidetes	87
+T2DCAG00319	NA	NA	NA	NA	NA	NA	Clostridiales	82	Firmicutes	84
+T2DCAG00320	Enterococcus faecium	100	Enterococcus	100	Enterococcaceae	100	Lactobacillales	100	Firmicutes	100
+T2DCAG00321	NA	NA	Clostridium	75	Clostridiaceae	75	Clostridiales	87	Firmicutes	88
+T2DCAG00322	Lachnospiraceae bacterium	86	Lachnospiraceae	86	NA	NA	Clostridiales	93	Firmicutes	94
+T2DCAG00323	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00324	NA	NA	NA	NA	NA	NA	Clostridiales	71	Firmicutes	72
+T2DCAG00325	Bacteroides finegoldii	99	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00326	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00327	Clostridium sp._M62/1	80	Clostridium	89	Clostridiaceae	89	Clostridiales	93	Firmicutes	94
+T2DCAG00328	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00329	NA	NA	NA	NA	NA	NA	Clostridiales	70	Firmicutes	74
+T2DCAG00330	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00331	NA	NA	NA	NA	NA	NA	Clostridiales	70	Firmicutes	73
+T2DCAG00332	Bacteroides plebeius	84	Bacteroides	94	Bacteroidaceae	94	Bacteroidales	95	Bacteroidetes	95
+T2DCAG00333	NA	NA	NA	NA	NA	NA	Bacteroidales	74	Bacteroidetes	75
+T2DCAG00334	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	71
+T2DCAG00335	Coprococcus comes	100	Coprococcus	100	Lachnospiraceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00336	NA	NA	NA	NA	NA	NA	Clostridiales	70	Firmicutes	71
+T2DCAG00337	Butyrivibrio crossotus	100	Butyrivibrio	100	Lachnospiraceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00338	NA	NA	NA	NA	NA	NA	Clostridiales	79	Firmicutes	81
+T2DCAG00339	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00340	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00341	NA	NA	Alistipes	84	Rikenellaceae	84	Bacteroidales	88	Bacteroidetes	88
+T2DCAG00342	Clostridium sp._M62/1	75	Clostridium	87	Clostridiaceae	87	Clostridiales	92	Firmicutes	92
+T2DCAG00343	Clostridium bartlettii	89	Clostridium	95	Clostridiaceae	95	Clostridiales	95	Firmicutes	96
+T2DCAG00344	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00345	Faecalibacterium prausnitzii	96	Faecalibacterium	96	Ruminococcaceae	97	Clostridiales	97	Firmicutes	98
+T2DCAG00346	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00347	NA	NA	NA	NA	NA	NA	Clostridiales	89	Firmicutes	90
+T2DCAG00348	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00349	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00350	Bacteroides dorei	85	Bacteroides	85	Bacteroidaceae	85	Bacteroidales	85	Bacteroidetes	85
+T2DCAG00351	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00352	Eubacterium siraeum	100	Eubacterium	100	Eubacteriaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00353	NA	NA	Alistipes	84	Rikenellaceae	84	Bacteroidales	89	Bacteroidetes	90
+T2DCAG00354	Faecalibacterium prausnitzii	83	Faecalibacterium	83	Ruminococcaceae	85	Clostridiales	88	Firmicutes	89
+T2DCAG00355	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00356	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00357	Ruminococcus lactaris	100	Ruminococcus	100	Ruminococcaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00358	Prevotella stercorea	99	Prevotella	99	Prevotellaceae	99	Bacteroidales	99	Bacteroidetes	99
+T2DCAG00359	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00360	Bifidobacterium adolescentis	99	Bifidobacterium	100	Bifidobacteriaceae	100	Bifidobacteriales	100	Actinobacteria	100
+T2DCAG00361	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00362	NA	NA	NA	NA	NA	NA	Bacteroidales	73	Bacteroidetes	73
+T2DCAG00363	NA	NA	NA	NA	NA	NA	Bacteroidales	75	Bacteroidetes	75
+T2DCAG00364	NA	NA	Prevotella	74	Prevotellaceae	74	Bacteroidales	78	Bacteroidetes	78
+T2DCAG00365	NA	NA	NA	NA	NA	NA	Clostridiales	77	Firmicutes	78
+T2DCAG00366	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00367	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00368	Veillonella atypica	99	Veillonella	100	Veillonellaceae	100	Selenomonadales	100	Firmicutes	100
+T2DCAG00369	NA	NA	NA	NA	NA	NA	Clostridiales	83	Firmicutes	85
+T2DCAG00370	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00371	Faecalibacterium prausnitzii	100	Faecalibacterium	100	Ruminococcaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00372	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00373	Streptococcus thermophilus	100	Streptococcus	100	Streptococcaceae	100	Lactobacillales	100	Firmicutes	100
+T2DCAG00374	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00375	NA	NA	NA	NA	NA	NA	Bacteroidales	73	Bacteroidetes	73
+T2DCAG00376	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00377	NA	NA	NA	NA	NA	NA	Bacteroidales	76	Bacteroidetes	76
+T2DCAG00378	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00379	Paraprevotella xylaniphila	98	Paraprevotella	98	Prevotellaceae	98	Bacteroidales	98	Bacteroidetes	98
+T2DCAG00380	NA	NA	Prevotella	82	Prevotellaceae	82	Bacteroidales	85	Bacteroidetes	85
+T2DCAG00381	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00382	NA	NA	NA	NA	NA	NA	Clostridiales	72	Firmicutes	73
+T2DCAG00383	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00384	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	70
+T2DCAG00385	Prevotella copri	98	Prevotella	100	Prevotellaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00386	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00387	Bifidobacterium breve	93	Bifidobacterium	100	Bifidobacteriaceae	100	Bifidobacteriales	100	Actinobacteria	100
+T2DCAG00388	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00389	Dialister succinatiphilus	71	Dialister	73	Veillonellaceae	76	Selenomonadales	77	Firmicutes	79
+T2DCAG00390	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00391	Dorea longicatena	99	Dorea	99	Lachnospiraceae	99	Clostridiales	100	Firmicutes	100
+T2DCAG00392	Bacteroides ovatus	90	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00393	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00394	Bifidobacterium animalis	100	Bifidobacterium	100	Bifidobacteriaceae	100	Bifidobacteriales	100	Actinobacteria	100
+T2DCAG00395	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00396	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00397	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00398	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00399	NA	NA	Clostridium	76	Clostridiaceae	76	Clostridiales	88	Firmicutes	89
+T2DCAG00400	Clostridium spiroforme	98	Clostridium	98	Clostridiaceae	98	Clostridiales	99	Firmicutes	99
+T2DCAG00401	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00402	Bacteroides coprocola	89	Bacteroides	96	Bacteroidaceae	96	Bacteroidales	96	Bacteroidetes	96
+T2DCAG00403	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00404	NA	NA	Alistipes	76	Rikenellaceae	76	Bacteroidales	82	Bacteroidetes	83
+T2DCAG00405	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00406	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00407	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00408	NA	NA	NA	NA	NA	NA	Clostridiales	76	Firmicutes	78
+T2DCAG00409	Blautia hansenii	99	Blautia	99	Lachnospiraceae	99	Clostridiales	100	Firmicutes	100
+T2DCAG00410	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00411	Alistipes putredinis	100	Alistipes	100	Rikenellaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00412	Eubacterium ventriosum	75	Eubacterium	77	Eubacteriaceae	77	Clostridiales	85	Firmicutes	87
+T2DCAG00413	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00414	Eubacterium ventriosum	99	Eubacterium	99	Eubacteriaceae	99	Clostridiales	100	Firmicutes	100
+T2DCAG00415	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00416	NA	NA	NA	NA	NA	NA	NA	NA	Proteobacteria	72
+T2DCAG00417	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00418	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00419	NA	NA	NA	NA	NA	NA	Bacteroidales	71	Bacteroidetes	72
+T2DCAG00420	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00421	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00422	NA	NA	Clostridium	82	Clostridiaceae	82	Clostridiales	83	Firmicutes	86
+T2DCAG00423	Parabacteroides johnsonii	77	Parabacteroides	84	Porphyromonadaceae	84	Bacteroidales	90	Bacteroidetes	90
+T2DCAG00424	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	72
+T2DCAG00425	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00426	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00427	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00428	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00429	Ruminococcaceae bacterium	75	Ruminococcaceae	75	NA	NA	Clostridiales	76	Firmicutes	78
+T2DCAG00430	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	71
+T2DCAG00431	Paraprevotella clara	98	Paraprevotella	100	Prevotellaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00432	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00433	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00434	Eubacterium siraeum	93	Eubacterium	93	Eubacteriaceae	93	Clostridiales	95	Firmicutes	95
+T2DCAG00435	NA	NA	NA	NA	NA	NA	Bacteroidales	72	Bacteroidetes	72
+T2DCAG00436	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00437	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00438	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00439	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00440	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00441	Alistipes shahii	100	Alistipes	100	Rikenellaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00442	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00443	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00444	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00445	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00446	Lachnospiraceae bacterium	100	Lachnospiraceae	100	Clostridiaceae	99	Clostridiales	100	Firmicutes	100
+T2DCAG00447	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00448	Prevotella stercorea	88	Prevotella	91	Prevotellaceae	91	Bacteroidales	92	Bacteroidetes	92
+T2DCAG00449	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00450	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00451	NA	NA	NA	NA	NA	NA	Bacteroidales	73	Bacteroidetes	73
+T2DCAG00452	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00453	NA	NA	NA	NA	NA	NA	Clostridiales	71	Firmicutes	71
+T2DCAG00454	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	70
+T2DCAG00455	NA	NA	NA	NA	NA	NA	Clostridiales	81	Firmicutes	82
+T2DCAG00456	Prevotella copri	77	Prevotella	85	Prevotellaceae	85	Bacteroidales	88	Bacteroidetes	88
+T2DCAG00457	Prevotella copri	86	Prevotella	92	Prevotellaceae	92	Bacteroidales	94	Bacteroidetes	95
+T2DCAG00458	Eubacterium biforme	88	Eubacterium	90	Eubacteriaceae	90	Clostridiales	92	Firmicutes	93
+T2DCAG00459	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00460	Dialister invisus	99	Dialister	99	Veillonellaceae	100	Selenomonadales	100	Firmicutes	100
+T2DCAG00461	NA	NA	NA	NA	NA	NA	Burkholderiales	71	Proteobacteria	74
+T2DCAG00462	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00463	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	76
+T2DCAG00464	NA	NA	Bacteroides	70	Bacteroidaceae	70	Bacteroidales	89	Bacteroidetes	90
+T2DCAG00465	Lactobacillus acidophilus	95	Lactobacillus	99	Lactobacillaceae	99	Lactobacillales	99	Firmicutes	99
+T2DCAG00466	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00467	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00468	Ruminococcus bromii	100	Ruminococcus	100	Ruminococcaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00469	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00470	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	70
+T2DCAG00471	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	78
+T2DCAG00472	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00473	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00474	NA	NA	NA	NA	NA	NA	Bacteroidales	76	Bacteroidetes	76
+T2DCAG00475	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00476	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00477	NA	NA	Clostridium	74	Clostridiaceae	74	Clostridiales	87	Firmicutes	87
+T2DCAG00478	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00479	Megasphaera elsdenii	71	Megasphaera	74	Veillonellaceae	78	Selenomonadales	79	Firmicutes	84
+T2DCAG00480	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00481	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00482	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00483	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00484	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00485	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00486	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	70
+T2DCAG00487	Coprococcus eutactus	99	Coprococcus	100	Lachnospiraceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00488	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00489	NA	NA	NA	NA	NA	NA	Clostridiales	73	Firmicutes	78
+T2DCAG00490	Catenibacterium mitsuokai	99	Catenibacterium	99	Erysipelotrichaceae	99	Erysipelotrichales	99	Firmicutes	100
+T2DCAG00491	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00492	NA	NA	NA	NA	NA	NA	Clostridiales	71	Firmicutes	73
+T2DCAG00493	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00494	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00495	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00496	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00497	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00498	Subdoligranulum variabile	74	Subdoligranulum	75	Ruminococcaceae	86	Clostridiales	90	Firmicutes	91
+T2DCAG00499	NA	NA	NA	NA	NA	NA	Clostridiales	73	Firmicutes	75
+T2DCAG00500	NA	NA	Ruminococcus	70	Ruminococcaceae	70	Clostridiales	81	Firmicutes	82
+T2DCAG00501	Bacteroides eggerthii	75	Bacteroides	94	Bacteroidaceae	94	Bacteroidales	94	Bacteroidetes	94
+T2DCAG00502	Bifidobacterium bifidum	100	Bifidobacterium	100	Bifidobacteriaceae	100	Bifidobacteriales	100	Actinobacteria	100
+T2DCAG00503	Lactobacillus mucosae	89	Lactobacillus	98	Lactobacillaceae	98	Lactobacillales	98	Firmicutes	98
+T2DCAG00504	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00505	NA	NA	NA	NA	NA	NA	Clostridiales	79	Firmicutes	80
+T2DCAG00506	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00507	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00508	Faecalibacterium prausnitzii	98	Faecalibacterium	98	Ruminococcaceae	98	Clostridiales	99	Firmicutes	99
+T2DCAG00509	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00510	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00511	NA	NA	NA	NA	NA	NA	Clostridiales	81	Firmicutes	86
+T2DCAG00512	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00513	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00514	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00515	Mitsuokella multacida	99	Mitsuokella	99	Veillonellaceae	100	Selenomonadales	100	Firmicutes	100
+T2DCAG00516	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00517	Parasutterella excrementihominis	99	Parasutterella	99	Sutterellaceae	99	Burkholderiales	99	Proteobacteria	99
+T2DCAG00518	Clostridium sp._SS2/1	78	Clostridium	81	Clostridiaceae	81	Clostridiales	89	Firmicutes	91
+T2DCAG00519	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00520	NA	NA	NA	NA	NA	NA	Clostridiales	72	Firmicutes	73
+T2DCAG00521	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00522	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00523	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00524	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00525	Bacteroides salanitronis	98	Bacteroides	99	Bacteroidaceae	99	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00526	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00527	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00528	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00529	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00530	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00531	Faecalibacterium prausnitzii	95	Faecalibacterium	95	Ruminococcaceae	96	Clostridiales	97	Firmicutes	97
+T2DCAG00532	Bacteroides intestinalis	100	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00533	Ruminococcus champanellensis	100	Ruminococcus	100	Ruminococcaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00534	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00535	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00536	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00537	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00538	NA	NA	NA	NA	NA	NA	Clostridiales	75	Firmicutes	76
+T2DCAG00539	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00540	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00541	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00542	butyrate-producing bacterium	92	Clostridium	93	Clostridiaceae	93	Clostridiales	97	Firmicutes	97
+T2DCAG00543	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00544	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00545	Eubacterium cylindroides	85	Eubacterium	93	Eubacteriaceae	93	Clostridiales	94	Firmicutes	95
+T2DCAG00546	Coprococcus eutactus	86	Coprococcus	90	Lachnospiraceae	90	Clostridiales	92	Firmicutes	92
+T2DCAG00547	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00548	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00549	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00550	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00551	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00552	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00553	NA	NA	NA	NA	NA	NA	Clostridiales	79	Firmicutes	82
+T2DCAG00554	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00555	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00556	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00557	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00558	NA	NA	NA	NA	NA	NA	Clostridiales	71	Firmicutes	74
+T2DCAG00559	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	70
+T2DCAG00560	Dorea formicigenerans	100	Dorea	100	Lachnospiraceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00561	NA	NA	Alistipes	72	Rikenellaceae	72	Bacteroidales	86	Bacteroidetes	86
+T2DCAG00562	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00563	NA	NA	NA	NA	Veillonellaceae	74	Selenomonadales	76	Firmicutes	82
+T2DCAG00564	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00565	NA	NA	Bacteroides	76	Bacteroidaceae	76	Bacteroidales	87	Bacteroidetes	87
+T2DCAG00566	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00567	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00568	NA	NA	Alistipes	79	Rikenellaceae	79	Bacteroidales	86	Bacteroidetes	86
+T2DCAG00569	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00570	NA	NA	NA	NA	NA	NA	Clostridiales	81	Firmicutes	82
+T2DCAG00571	Ruminococcaceae bacterium	74	Ruminococcaceae	74	NA	NA	Clostridiales	78	Firmicutes	79
+T2DCAG00572	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00573	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00574	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00575	NA	NA	NA	NA	NA	NA	NA	NA	Bacteroidetes	71
+T2DCAG00576	Alistipes sp._JC136	92	Alistipes	95	Rikenellaceae	95	Bacteroidales	98	Bacteroidetes	98
+T2DCAG00577	Ruminococcaceae bacterium	98	Ruminococcaceae	98	NA	NA	Clostridiales	76	Firmicutes	77
+T2DCAG00578	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00579	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00580	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00581	NA	NA	NA	NA	NA	NA	Clostridiales	75	Firmicutes	76
+T2DCAG00582	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00583	NA	NA	Clostridium	85	Clostridiaceae	85	Clostridiales	88	Firmicutes	91
+T2DCAG00584	NA	NA	Clostridium	85	Clostridiaceae	85	Clostridiales	87	Firmicutes	90
+T2DCAG00585	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00586	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00587	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00588	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00589	NA	NA	Fusobacterium	85	Fusobacteriaceae	86	Fusobacteriales	87	Fusobacteria	87
+T2DCAG00590	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00591	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00592	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00593	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00594	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00595	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00596	NA	NA	NA	NA	Erysipelotrichaceae	72	Erysipelotrichales	72	Firmicutes	86
+T2DCAG00597	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00598	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00599	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00600	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00601	Dialister succinatiphilus	78	Dialister	81	Veillonellaceae	82	Selenomonadales	83	Firmicutes	87
+T2DCAG00602	Blautia hydrogenotrophica	100	Blautia	100	Lachnospiraceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00603	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00604	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00605	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	70
+T2DCAG00606	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00607	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00608	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00609	Prevotella copri	86	Prevotella	93	Prevotellaceae	93	Bacteroidales	94	Bacteroidetes	95
+T2DCAG00610	Victivallis vadensis	71	Victivallis	71	NA	NA	NA	NA	NA	NA
+T2DCAG00611	NA	NA	Clostridium	87	Clostridiaceae	87	Clostridiales	89	Firmicutes	90
+T2DCAG00612	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00613	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00614	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	73
+T2DCAG00615	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00616	Parasutterella excrementihominis	97	Parasutterella	97	Sutterellaceae	97	Burkholderiales	97	Proteobacteria	97
+T2DCAG00617	NA	NA	NA	NA	NA	NA	Clostridiales	75	Firmicutes	77
+T2DCAG00618	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00619	Lachnospiraceae bacterium	100	Lachnospiraceae	100	NA	NA	Clostridiales	91	Firmicutes	92
+T2DCAG00620	NA	NA	Coprobacillus	72	Erysipelotrichaceae	76	Erysipelotrichales	76	Firmicutes	89
+T2DCAG00621	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00622	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	75
+T2DCAG00623	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00624	NA	NA	Sutterella	74	Sutterellaceae	75	Burkholderiales	78	Proteobacteria	81
+T2DCAG00625	Ruminococcus sp._SR1/5	92	Ruminococcus	95	Ruminococcaceae	95	Clostridiales	96	Firmicutes	96
+T2DCAG00626	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00627	Mitsuokella multacida	99	Mitsuokella	99	Veillonellaceae	99	Selenomonadales	99	Firmicutes	99
+T2DCAG00628	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00629	Dialister succinatiphilus	91	Dialister	92	Veillonellaceae	93	Selenomonadales	94	Firmicutes	95
+T2DCAG00630	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00631	Eubacterium biforme	97	Eubacterium	98	Eubacteriaceae	98	Clostridiales	99	Firmicutes	100
+T2DCAG00632	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00633	Dorea longicatena	95	Dorea	96	Lachnospiraceae	97	Clostridiales	98	Firmicutes	99
+T2DCAG00634	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00635	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00636	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00637	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00638	Sutterella parvirubra	98	Sutterella	99	Sutterellaceae	99	Burkholderiales	99	Proteobacteria	99
+T2DCAG00639	Bacteroides xylanisolvens	97	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00640	Akkermansia muciniphila	84	Akkermansia	84	Verrucomicrobiaceae	84	Verrucomicrobiales	84	Verrucomicrobia	84
+T2DCAG00641	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00642	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00643	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00644	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00645	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00646	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00647	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00648	Clostridium perfringens	100	Clostridium	100	Clostridiaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00649	NA	NA	NA	NA	Lachnospiraceae	76	Clostridiales	96	Firmicutes	96
+T2DCAG00650	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00651	Bacteroides intestinalis	100	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00652	Megasphaera elsdenii	100	Megasphaera	100	Veillonellaceae	100	Selenomonadales	100	Firmicutes	100
+T2DCAG00653	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00654	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00655	NA	NA	NA	NA	NA	NA	Clostridiales	81	Firmicutes	83
+T2DCAG00656	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00657	Collinsella intestinalis	96	Collinsella	98	Coriobacteriaceae	98	Coriobacteriales	98	Actinobacteria	99
+T2DCAG00658	NA	NA	NA	NA	NA	NA	Burkholderiales	76	Proteobacteria	84
+T2DCAG00659	Clostridium sp._L2-50	100	Clostridium	100	Clostridiaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00660	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00661	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00662	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	70
+T2DCAG00663	NA	NA	NA	NA	Ruminococcaceae	70	Clostridiales	82	Firmicutes	84
+T2DCAG00664	NA	NA	NA	NA	NA	NA	Clostridiales	71	Firmicutes	72
+T2DCAG00665	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00666	NA	NA	NA	NA	Coriobacteriaceae	82	Coriobacteriales	82	Actinobacteria	84
+T2DCAG00667	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00668	NA	NA	NA	NA	NA	NA	Clostridiales	76	Firmicutes	77
+T2DCAG00669	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00670	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00671	Acidaminococcus fermentans	99	Acidaminococcus	99	Acidaminococcaceae	99	Selenomonadales	99	Firmicutes	99
+T2DCAG00672	Bifidobacterium angulatum	99	Bifidobacterium	100	Bifidobacteriaceae	100	Bifidobacteriales	100	Actinobacteria	100
+T2DCAG00673	Eubacterium ventriosum	71	Eubacterium	75	Eubacteriaceae	75	Clostridiales	88	Firmicutes	89
+T2DCAG00674	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00675	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00676	NA	NA	Ruminococcus	78	Ruminococcaceae	78	Clostridiales	97	Firmicutes	97
+T2DCAG00677	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00678	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00679	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00680	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00681	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00682	Methanobrevibacter smithii	100	Methanobrevibacter	100	Methanobacteriaceae	100	Methanobacteriales	100	Euryarchaeota	100
+T2DCAG00683	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00684	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00686	NA	NA	NA	NA	NA	NA	Clostridiales	76	Firmicutes	77
+T2DCAG00687	NA	NA	NA	NA	NA	NA	Clostridiales	81	Firmicutes	81
+T2DCAG00688	NA	NA	NA	NA	Coriobacteriaceae	76	Coriobacteriales	76	Actinobacteria	78
+T2DCAG00689	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00690	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00691	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00692	Eggerthella sp._HGA1	99	Eggerthella	100	Coriobacteriaceae	100	Coriobacteriales	100	Actinobacteria	100
+T2DCAG00693	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00694	NA	NA	NA	NA	NA	NA	Bacteroidales	71	Bacteroidetes	72
+T2DCAG00695	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00696	Desulfovibrio sp._6_1_46AFAA	99	Desulfovibrio	99	Desulfovibrionaceae	99	Desulfovibrionales	99	Proteobacteria	100
+T2DCAG00697	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00698	NA	NA	Bacteroides	89	Bacteroidaceae	89	Bacteroidales	90	Bacteroidetes	90
+T2DCAG00699	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00700	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00701	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	71
+T2DCAG00702	Coprococcus catus	97	Coprococcus	97	Lachnospiraceae	98	Clostridiales	98	Firmicutes	98
+T2DCAG00703	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00704	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00706	Bilophila sp._4_1_30	82	Bilophila	85	Desulfovibrionaceae	90	Desulfovibrionales	90	Proteobacteria	93
+T2DCAG00707	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00708	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00709	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00710	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00711	NA	NA	NA	NA	Coriobacteriaceae	75	Coriobacteriales	75	Actinobacteria	80
+T2DCAG00712	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00713	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00714	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00715	Prevotella copri	86	Prevotella	91	Prevotellaceae	91	Bacteroidales	92	Bacteroidetes	92
+T2DCAG00716	Methanobrevibacter smithii	100	Methanobrevibacter	100	Methanobacteriaceae	100	Methanobacteriales	100	Euryarchaeota	100
+T2DCAG00717	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00718	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00719	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00720	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00721	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00722	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00723	Clostridium sp._L2-50	89	Clostridium	89	Clostridiaceae	89	Clostridiales	91	Firmicutes	91
+T2DCAG00724	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00725	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00726	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00727	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00728	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00729	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00730	Acidaminococcus fermentans	97	Acidaminococcus	97	Acidaminococcaceae	97	Selenomonadales	98	Firmicutes	99
+T2DCAG00731	NA	NA	Bacteroides	96	Bacteroidaceae	96	Bacteroidales	96	Bacteroidetes	97
+T2DCAG00732	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00733	NA	NA	NA	NA	NA	NA	Clostridiales	71	Firmicutes	73
+T2DCAG00734	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00735	NA	NA	Clostridium	81	Clostridiaceae	81	Clostridiales	93	Firmicutes	94
+T2DCAG00736	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00737	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00738	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00739	Phascolarctobacterium succinatutens	100	Phascolarctobacterium	100	Acidaminococcaceae	100	Selenomonadales	100	Firmicutes	100
+T2DCAG00740	Bacteroides plebeius	93	Bacteroides	98	Bacteroidaceae	98	Bacteroidales	98	Bacteroidetes	98
+T2DCAG00741	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00742	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00743	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00744	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00745	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00746	butyrate-producing bacterium	99	butyrate-producing	99	NA	NA	Clostridiales	83	Firmicutes	83
+T2DCAG00747	Veillonella sp._oral_taxon_158_str._F0412	97	Veillonella	99	Veillonellaceae	99	Selenomonadales	99	Firmicutes	99
+T2DCAG00748	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00749	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00750	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00751	NA	NA	NA	NA	NA	NA	Clostridiales	78	Firmicutes	80
+T2DCAG00752	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00753	Mitsuokella multacida	92	Mitsuokella	92	Veillonellaceae	96	Selenomonadales	96	Firmicutes	97
+T2DCAG00754	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00755	Akkermansia muciniphila	70	Akkermansia	70	Verrucomicrobiaceae	70	Verrucomicrobiales	70	Verrucomicrobia	70
+T2DCAG00756	NA	NA	NA	NA	NA	NA	Clostridiales	72	Firmicutes	73
+T2DCAG00757	Eubacterium siraeum	89	Eubacterium	91	Eubacteriaceae	91	Clostridiales	93	Firmicutes	93
+T2DCAG00758	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00759	Clostridium bolteae	95	Clostridium	99	Clostridiaceae	99	Clostridiales	99	Firmicutes	99
+T2DCAG00760	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00761	Desulfovibrio piger	99	Desulfovibrio	100	Desulfovibrionaceae	100	Desulfovibrionales	100	Proteobacteria	100
+T2DCAG00762	Eubacterium sp._3_1_31	100	Eubacterium	100	Eubacteriaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00763	NA	NA	NA	NA	Coriobacteriaceae	74	Coriobacteriales	74	Actinobacteria	77
+T2DCAG00764	NA	NA	Prevotella	86	Prevotellaceae	86	Bacteroidales	90	Bacteroidetes	91
+T2DCAG00765	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00766	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00767	Enterobacter cloacae	99	Enterobacter	100	Enterobacteriaceae	100	Enterobacteriales	100	Proteobacteria	100
+T2DCAG00768	Lachnospiraceae bacterium	77	Lachnospiraceae	77	Lachnospiraceae	75	Clostridiales	81	Firmicutes	83
+T2DCAG00769	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00770	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00771	Streptococcus vestibularis	97	Streptococcus	100	Streptococcaceae	100	Lactobacillales	100	Firmicutes	100
+T2DCAG00772	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	70
+T2DCAG00773	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00774	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00775	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00776	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00777	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00778	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00779	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00780	Eubacterium biforme	99	Eubacterium	99	Eubacteriaceae	99	Clostridiales	100	Firmicutes	100
+T2DCAG00781	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00782	NA	NA	Clostridium	71	Clostridiaceae	71	Clostridiales	83	Firmicutes	85
+T2DCAG00783	Coprococcus catus	87	Coprococcus	87	Lachnospiraceae	89	Clostridiales	92	Firmicutes	92
+T2DCAG00784	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00786	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00787	NA	NA	Bacteroides	99	Bacteroidaceae	99	Bacteroidales	99	Bacteroidetes	100
+T2DCAG00788	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00789	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00790	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00791	Phascolarctobacterium succinatutens	100	Phascolarctobacterium	100	Acidaminococcaceae	100	Selenomonadales	100	Firmicutes	100
+T2DCAG00792	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00793	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00794	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00795	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00796	NA	NA	Alistipes	84	Rikenellaceae	84	Bacteroidales	94	Bacteroidetes	94
+T2DCAG00797	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00798	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00799	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00800	Faecalibacterium prausnitzii	100	Faecalibacterium	100	Ruminococcaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00801	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00803	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00804	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00806	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00807	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00808	Bifidobacterium dentium	100	Bifidobacterium	100	Bifidobacteriaceae	100	Bifidobacteriales	100	Actinobacteria	100
+T2DCAG00809	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00810	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00811	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00812	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00813	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00814	NA	NA	NA	NA	NA	NA	Bacteroidales	84	Bacteroidetes	84
+T2DCAG00815	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00816	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00817	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00818	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00819	NA	NA	NA	NA	NA	NA	Clostridiales	70	Firmicutes	72
+T2DCAG00820	NA	NA	NA	NA	NA	NA	Clostridiales	80	Firmicutes	81
+T2DCAG00821	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00822	NA	NA	NA	NA	NA	NA	Clostridiales	73	Firmicutes	75
+T2DCAG00823	Roseburia intestinalis	100	Roseburia	100	Lachnospiraceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00824	NA	NA	Prevotella	80	Prevotellaceae	81	Bacteroidales	87	Bacteroidetes	87
+T2DCAG00825	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00826	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00827	Ruminococcus obeum	99	Ruminococcus	100	Ruminococcaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00828	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00829	NA	NA	NA	NA	NA	NA	Clostridiales	75	Firmicutes	75
+T2DCAG00830	NA	NA	NA	NA	NA	NA	NA	NA	Proteobacteria	74
+T2DCAG00831	NA	NA	NA	NA	NA	NA	Clostridiales	75	Firmicutes	79
+T2DCAG00832	NA	NA	NA	NA	NA	NA	Clostridiales	87	Firmicutes	88
+T2DCAG00833	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00834	Desulfovibrio piger	92	Desulfovibrio	93	Desulfovibrionaceae	94	Desulfovibrionales	95	Proteobacteria	96
+T2DCAG00835	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00836	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00837	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00838	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	74
+T2DCAG00839	butyrate-producing bacterium	96	butyrate-producing	96	Clostridiaceae	70	Clostridiales	88	Firmicutes	89
+T2DCAG00840	Bacteroides cellulosilyticus	100	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00841	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00842	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00843	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00844	NA	NA	Bacteroides	83	Bacteroidaceae	83	Bacteroidales	84	Bacteroidetes	85
+T2DCAG00845	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00846	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	73
+T2DCAG00847	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00848	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00849	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00850	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00851	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00852	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00853	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00854	Clostridium sp._L2-50	100	Clostridium	100	Clostridiaceae	100	Clostridiales	100	Firmicutes	100
+T2DCAG00855	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00856	Faecalibacterium prausnitzii	97	Faecalibacterium	97	Ruminococcaceae	98	Clostridiales	98	Firmicutes	98
+T2DCAG00857	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00859	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00860	Bacteroides cellulosilyticus	70	Bacteroides	93	Bacteroidaceae	93	Bacteroidales	95	Bacteroidetes	95
+T2DCAG00861	NA	NA	NA	NA	NA	NA	Clostridiales	75	Firmicutes	77
+T2DCAG00862	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00863	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	71
+T2DCAG00864	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00865	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00866	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00867	Succinatimonas hippei	96	Succinatimonas	96	Succinivibrionaceae	96	Aeromonadales	96	Proteobacteria	97
+T2DCAG00868	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00869	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00870	NA	NA	Alistipes	81	Rikenellaceae	81	Bacteroidales	87	Bacteroidetes	87
+T2DCAG00871	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00872	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00873	NA	NA	Clostridium	82	Clostridiaceae	83	Clostridiales	94	Firmicutes	95
+T2DCAG00874	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00875	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00876	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	72
+T2DCAG00877	Ruminococcus obeum	98	Ruminococcus	99	Ruminococcaceae	99	Clostridiales	100	Firmicutes	100
+T2DCAG00878	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00879	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00880	NA	NA	Eubacterium	72	Eubacteriaceae	72	Clostridiales	81	Firmicutes	85
+T2DCAG00881	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00882	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00883	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00884	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00885	NA	NA	NA	NA	NA	NA	NA	NA	Bacteroidetes	70
+T2DCAG00886	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00887	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	85
+T2DCAG00888	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00889	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00890	NA	NA	Clostridium	73	Clostridiaceae	73	Clostridiales	89	Firmicutes	91
+T2DCAG00891	NA	NA	NA	NA	NA	NA	Clostridiales	71	Firmicutes	75
+T2DCAG00892	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00893	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00894	Ruminococcaceae bacterium	79	Ruminococcaceae	79	NA	NA	Clostridiales	75	Firmicutes	77
+T2DCAG00895	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00896	NA	NA	NA	NA	NA	NA	Clostridiales	70	Firmicutes	71
+T2DCAG00897	Bifidobacterium catenulatum	97	Bifidobacterium	100	Bifidobacteriaceae	100	Bifidobacteriales	100	Actinobacteria	100
+T2DCAG00898	Escherichia coli	92	Escherichia	93	Enterobacteriaceae	98	Enterobacteriales	98	Proteobacteria	98
+T2DCAG00899	Eubacterium ventriosum	78	Eubacterium	79	Eubacteriaceae	79	Clostridiales	89	Firmicutes	90
+T2DCAG00900	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00901	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00902	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00904	Veillonella dispar	99	Veillonella	100	Veillonellaceae	100	Selenomonadales	100	Firmicutes	100
+T2DCAG00905	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00906	Bacteroides plebeius	99	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00907	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00908	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00909	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00910	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	75
+T2DCAG00911	Lachnospiraceae bacterium	88	Lachnospiraceae	88	Ruminococcaceae	81	Clostridiales	87	Firmicutes	88
+T2DCAG00912	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00913	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00914	NA	NA	NA	NA	NA	NA	NA	NA	Proteobacteria	76
+T2DCAG00915	Lachnospiraceae bacterium	70	Clostridium	79	Clostridiaceae	79	Clostridiales	93	Firmicutes	93
+T2DCAG00917	NA	NA	Bacteroides	100	Bacteroidaceae	100	Bacteroidales	100	Bacteroidetes	100
+T2DCAG00918	NA	NA	Bacteroides	74	Bacteroidaceae	74	Bacteroidales	93	Bacteroidetes	94
+T2DCAG00919	NA	NA	NA	NA	NA	NA	Clostridiales	75	Firmicutes	76
+T2DCAG00920	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00921	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00922	NA	NA	Eggerthella	74	Coriobacteriaceae	84	Coriobacteriales	84	Actinobacteria	88
+T2DCAG00923	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	72
+T2DCAG00924	Ruminococcus sp._SR1/5	75	Ruminococcus	84	Ruminococcaceae	84	Clostridiales	91	Firmicutes	91
+T2DCAG00925	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00926	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00927	NA	NA	Olsenella	72	Coriobacteriaceae	84	Coriobacteriales	84	Actinobacteria	87
+T2DCAG00928	Eubacterium biforme	98	Eubacterium	98	Eubacteriaceae	98	Clostridiales	99	Firmicutes	99
+T2DCAG00930	NA	NA	NA	NA	Coriobacteriaceae	70	Coriobacteriales	70	Actinobacteria	75
+T2DCAG00931	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00932	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+T2DCAG00933	NA	NA	NA	NA	NA	NA	NA	NA	Firmicutes	71
+T2DCAG00934	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
