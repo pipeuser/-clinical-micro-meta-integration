@@ -35,7 +35,9 @@
 ### basically a weighted average abundance profile. Prior to this, optimal
 ### parameters for WGCNA should be established for the dataset being analyzed.
 ###
-
+### to choose the baseline data to cluster 
+metabolomic <- metabolomic[ctrl.no.na,]
+metabolomic <- metabolomic[!is.na(rowSums(metabolomic)), ]
 ### Settings for WGCNA generally
 cor_method          = "spearman" ### for association with clinical parameters
 corFun_tmp          = "bicor"
@@ -46,9 +48,7 @@ BH_pval_asso_cutoff = 0.05
 NetworkType         = "signed" ### Signed-network (as the PC1 and median profile does not make sense as a summary measure of a cluster with anticorrelated metabolites.)
 
 ### Specify data and parameters 
-ID_common_all_samples_meta = intersect (rownames (phenotypes), rownames (metabolomic)) ### only include individuals with information for both domains.
-dat = as.data.frame (metabolomic [ID_common_all_samples_meta,])
-dat_tmp = log2 (dat) ### work in logarithmic space
+dat_tmp =metabolomic ### work in logarithmic space
 
 ### Settings for WGCNA on polar metabolite measurements
 ### Once these are established the steps below can be run
@@ -101,5 +101,10 @@ for (module in names (table (moduleColorsMeta))) {
   kME [module.metabolites] = datKME [module.metabolites, paste ("kME", module, sep = "")]   
   
 }
-output = data.frame ("module" = modules, "kME" = kME, "kIN" = kIN, "cluster_name" = sapply (modules, function (m) cluster_mapping_file [paste0 ("M_ME", m), "New_Name"]))
+output = data.frame ("module" = modules, "kME" = kME, "kIN" = kIN)
 output$rename <- paste0("M",as.numeric(as.factor(output$module)), "-", rownames(output))
+write.csv(output, paste0(outdir, "/metabolism.cluster.csv"), quote = F)
+
+# rename the MEsMeta & Metabolism
+colnames(MEsMeta) <- paste0("M-",as.numeric(as.factor(colnames(MEsMeta))))
+colnames(metabolomic) <- rownames(output)

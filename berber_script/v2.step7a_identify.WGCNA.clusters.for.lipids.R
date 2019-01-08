@@ -14,10 +14,9 @@
 ###
 
 ### Specify data and parameters
-
-dat = as.data.frame (lipidomic [rownames (phenotypes),])
-dat_tmp = log2 (dat)
-
+dat = as.data.frame (lipidomic [ctrl.no.na,])
+dat_tmp = dat[!is.na(rowSums(dat)), ]
+lipidomic <- dat_tmp
 ### Settings for WGCNA on molecular lipids measurements
 ### Once these are established the steps below can be run
 RsquareCut_val = 0.90
@@ -67,5 +66,8 @@ for (module in names (table (moduleColorsLipid))) {
 output = data.frame ("module" = modules, "kME" = kME, "kIN" = kIN)
 output$rename <- paste0("L",as.numeric(as.factor(output$module)), "-", rownames(output))
 
+write.csv(output, paste0(outdir, "/bileacid.cluster.csv"), quote = F)
 
+colnames(MEsLipid) <- paste0("L-", as.numeric(as.factor(colnames(MEsLipid))))
+colnames(lipidomic) <- rownames(output)
 
